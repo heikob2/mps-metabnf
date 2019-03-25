@@ -6,7 +6,9 @@ Currently the manual procedure is as follows:
 
 1. enable saving of transient models 
 2. build grammar file 
-3. select grammar file and latest transient model (containing generated output) 
+3. create language with the name provided in the grammar-file
+3. ~~select grammar file and latest transient model (containing generated output)~~ 
+3. select the latest transient model (containing generated output) 
 4. select Tools --> Import Generated Language (this imports the concept hierarchy) 
 5. fix concept hierarchy  
 6. build structure, review & auto-fix errors 
